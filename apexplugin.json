@@ -17,14 +17,14 @@
     "url" : "https://github.com/mic501/progress_arrows.git"
   },
   "oracle" : {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "versions": ["23.2.0", "21.1.0", "19.1.0"],
     "apex" : {
-      "versions" : ["5.0.0"],
+      "versions" : ["23.2.0", "23.1.5"],
       "plugin" : {
         "internalName" : "DE.M-ABELE.PROGRESS_ARROWS",
         "type" : "template component",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=APEXPLUGIN",
-        "previewImage" : "https://user-images.githubusercontent.com/149264797/279166393-4690b75c-9641-410a-a0a9-cb23c4a65ad3.png"
+        "previewImage" : "https://github.com/mic501/progress_arrows/raw/main/progress_arrows.png"
       }
     }
   }
