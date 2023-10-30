@@ -1,0 +1,32 @@
+{
+  "name" : "Progress Arrows",
+  "version" : "1.0",
+  "description" : "A simple template component to display the status or the progres of an item",
+  "keywords" : ["template component", "arrow", "status", "progress"],
+  "homepage" : "https://github.com/mic501/progress_arrows",
+  "bugs" : {
+    "url" : "https://github.com/mic501/progress_arrows/issues"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Michael Abele",
+    "email" : "apex@m-abele.de"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mic501/progress_arrows.git"
+  },
+  "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["5.0.0"],
+      "plugin" : {
+        "internalName" : "DE.M-ABELE.PROGRESS_ARROWS",
+        "type" : "template component",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=APEXPLUGIN",
+        "previewImage" : "https://user-images.githubusercontent.com/149264797/279166393-4690b75c-9641-410a-a0a9-cb23c4a65ad3.png"
+      }
+    }
+  }
+
+}
