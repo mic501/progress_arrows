@@ -23,7 +23,7 @@
       "plugin" : {
         "internalName" : "DE.M-ABELE.PROGRESS_ARROWS",
         "type" : "template component",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=APEXPLUGIN",
+        "demo" : "https://apex.oracle.com/pls/apex/r/matest/progress-arrows-demo",
         "previewImage" : "https://github.com/mic501/progress_arrows/raw/main/progress_arrows.png"
       }
     }
